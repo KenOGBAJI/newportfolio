@@ -1,0 +1,28 @@
+   *{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: josefin sans-serif;
+   }
+.about{
+    height: 100vh;
+    background-image: url(../../11.jpg);  
+}
+.about{
+    width: 50%;
+    padding: 50%;
+    background-repeat: no-repeat;
+    background-color: #191919;
+}
+.about img{
+    height: auto;
+    width: 430px;
+}
+.about-text{
+    width: 550px;
+    color: white;
+    text-align: left;
+    bottom: 30%;
+    text-align: left;
+    font-size: 30px;
+}
